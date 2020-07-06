@@ -1,4 +1,4 @@
-# linker
+# Linker
 Operating Systems Project - Building a Linker
 
 A summary of instructions for this project:
